@@ -1,0 +1,6 @@
+{
+  "name": "LexAI",
+  "description": "Full-stack legal AI assistant platform with document upload, analysis dashboard, and glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
